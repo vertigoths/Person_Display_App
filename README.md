@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/LhPQppjMjaVuJpWE11/giphy.gif)
+![Alt Text](https://media.giphy.com/media/tTie2Wro1lsWi1SfKQ/giphy.gif)
 
 # About 'Person Display App'
 In this app users needs to be logged in to use functionalities. After they are logged in, they can see characters from a show. They can also add another character
