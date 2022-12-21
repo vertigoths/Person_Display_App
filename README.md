@@ -12,4 +12,4 @@ to see.
 
 **Kotlin** <br />
 • Used 'Jetpack Composer' for dynamic application. <br />
-• Used 'MVVM' for modularity. <br />
+• Used 'MVVM architecture' for modularity. <br />
