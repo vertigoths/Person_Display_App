@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758995536305",
+    "project_id": "letgo-c5369",
+    "storage_bucket": "letgo-c5369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758995536305:android:7b5599a1cc3b314e1f1590",
+        "android_client_info": {
+          "package_name": "com.example.person_display_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758995536305-d7fgjphnv8osrboq8ug0il9g5e4gbidc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifGpjYtKX1DbGy1s39I_bmoohI3LJr7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758995536305-d7fgjphnv8osrboq8ug0il9g5e4gbidc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

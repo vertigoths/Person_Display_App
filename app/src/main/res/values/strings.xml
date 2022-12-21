@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Person_Display_App</string>
+    <string name="title_activity_landing">LandingActivity</string>
+</resources>
